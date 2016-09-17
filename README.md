@@ -24,3 +24,6 @@ https://github.com/YZMobileTalks
 #### 6、”YZMobileTalks团队”新浪微博？
 http://weibo.com/mobiledevelopment
 
+#### 7、博客地址
+http://www.52learn.wang
+
