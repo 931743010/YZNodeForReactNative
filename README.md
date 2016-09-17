@@ -28,11 +28,11 @@ http://weibo.com/mobiledevelopment
 http://www.52learn.wang
 
 #### 8、项目配置
-（1）切换到项目路径下面 执行 npm install
-（2）将项目中下载的RefreshableListView.js文件按照下图路径把node_modules文件里面的RefreshableListView.js替换掉
+#####（1）切换到项目路径下面 执行 npm install
+#####（2）将项目中下载的RefreshableListView.js文件按照下图路径把node_modules文件里面的RefreshableListView.js替换掉
 ![](tihuanlujing.png) 
-（3）切换到项目路径下面 执行 npm start
-（4）切换到项目路径下面 执行 react-native run-ios
+#####（3）切换到项目路径下面 执行 npm start
+#####（4）切换到项目路径下面 执行 react-native run-ios
 
 
 
